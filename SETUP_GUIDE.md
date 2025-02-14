@@ -8,7 +8,8 @@
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/DiljeetSingh99/solar-assistant.git
+git clone https://github.com/DiljeetSingh99/solar-assistant.git
+
    cd solar-assistant
    ```
 
@@ -23,10 +24,11 @@
    pip install -r requirements.txt
    ```
 
-4. Create a `.env` file in the project root and add your OpenRouter API key:
+4.Add Your Key in `.env` your OpenRouter API key:
    ```
    OPENROUTER_API_KEY=your_api_key_here
    ```
+
 
 ## Running the Application
 
