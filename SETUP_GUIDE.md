@@ -8,7 +8,7 @@
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/solar-assistant.git
+   git clone https://github.com/DiljeetSingh99/solar-assistant.git
    cd solar-assistant
    ```
 
