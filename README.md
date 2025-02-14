@@ -18,11 +18,12 @@ This project implements an AI-powered assistant specializing in solar industry c
    - Windows: `.venv\Scripts\activate`
    - Mac/Linux: `source .venv/bin/activate`
 4. Install dependencies: `pip install -r requirements.txt`
-5. Create a `.env` file with your OpenRouter API key:
+5. Add Your Key in `.env` your OpenRouter API key:
    ```
    OPENROUTER_API_KEY=your_api_key_here
    ```
 6. Run the application: `python "Solar Energy Source.py"`
+
 
 ## Usage
 The application will launch a web interface where you can ask questions about solar energy. Example queries:
